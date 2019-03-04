@@ -1,0 +1,35 @@
+Enunciado do Projeto de BD
+
+	
+
+	Uma empresa de comboios chamada XPTO tem um problema em relação à reserva de viagens de comboios, 
+para tentar solucionar esse problema a dita empresa pediu a uma empresa de software chamada RDB, Lda. 
+que fizesse uma base de dados que resolvesse tal problema.
+
+	A empresa XPTO tem algumas condiçoes em relaçao a base de dados a ser criada:
+
+		- Pode-se fazer reservas de viagens a nivel nacional como internacional.
+
+		- Se o cliente desejar cancelar uma reserva, esta tem de ser cancelada com um dia antes da viagem em questão,
+    	caso o cliente tenha pago a reserva o dinheiro será devolvido.
+		
+		- O Pagamento da reserva deve ser efetuado, por via Multibanco, Cartao de Credito e monetario,
+		porem o pagamento monetario tera que ser feito numa estaçao de comboios ou num payShop.
+
+	    - O cliente deve efectuar o pagamento da reserva até 3 dias após a reserva, caso nao pagar a reserva
+		é automaticamente cancelada, no entanto se a reserva e a viagem forem separadas por menos de 3 dias
+		até 24h antes da viagem.
+
+		- O cliente pode fazer a reserva da viagem até 12h antes da viagem, passado esse tempo já nao
+		é permitido fazer reservas.
+
+		- Os lugares disponivies em cada comboio serão todos disponiblizados para reserva, se porventura
+		os bilhetes nao forem todos reservados estes seram vendidos a bilhete normal.
+
+		- Na reserva existir a possiblidade de escolher o tipo de classe em que o cliente pretende viajar,
+		  bem como se a reserva é de um bilhete de ida ou ida e volta.
+
+
+	Construa uma Base de Dados que permite fazer este projeto apresentado pela empresa XPTO.
+
+		     
