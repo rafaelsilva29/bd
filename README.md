@@ -1,8 +1,8 @@
 # BD
-Base de Dados - MIEINF
+## Base de Dados - MIEINF
 
 Trabalho Prático da Unidade Curricular Base de Dados
 
-Mestrado Integrado em Engenharia Informática 
+#### Mestrado Integrado em Engenharia Informática 
 
-Universidade do Minho
+### Universidade do Minho
